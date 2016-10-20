@@ -1,0 +1,6 @@
+{
+  "name": "Mytestone",
+  "tagline": "",
+  "body": "<html>\r\n<head>\r\n\t<title>Bootstrap 实例 - 代码</title>\r\n</head>\r\n\r\n<body>\r\n\t<div>\r\n\t\t<table class=\"table table-bordered\">\r\n\t\t<tr>\r\n\t\t\t<td rowspan=\"3\">HSS</td>\r\n\t\t\t<td rowspan=\"2\">A</td>\r\n\t\t\t<td >B</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>C</td>\t\t\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>D</td>\r\n\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n</body>\r\n\r\n<html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
